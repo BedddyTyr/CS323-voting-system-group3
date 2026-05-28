@@ -1,5 +1,5 @@
 # CS323 — Distributed Voting System (Supabase)
-**Edge Function URL (Cloud Run API equivalent):** https://trmofzgslbobpfbqytao.supabase.co/functions/v1/ingest-vote\
+**Edge Function URL (Cloud Run API equivalent):** https://trmofzgslbobpfbqytao.supabase.co/functions/v1/ingest-vote \
 **Gif Proof:** 
 ![Alt Text](https://drive.google.com/file/d/1Rosf-YlkbVa8c3KryI6amk-_1H8hByVi/view?usp=sharing)
 
